@@ -22,12 +22,12 @@ Star it If it looks helpful
 
 | Day | Topic | Content Covered |
 |:--:|:--|:--|
-| 1 | [Spark Architecture + Lazy Evaluation](https://github.com/Karsh10/Pyspark_Notes/blob/main/1.BASIC/1) | Spark driver, executors, DAG, lazy vs eager execution |
+| 1 | [Spark Architecture + Lazy Evaluation](https://github.com/Karsh10/PySpark-Notes/blob/4496cd834ce4c69f32cbf5620e48b3c7261ad35c/1.BASIC/1.%20Introduction/DAY%2001.md) | Spark driver, executors, DAG, lazy vs eager execution |
 | 2 | RDDs & Transformations | RDD concepts, map/filter/flatMap, narrow vs wide transformations |
 | 3 | Spark UI + Jobs & Stages | Understanding Spark UI, job → stage → task breakdown |
-| 4 | [DataFrame Basics](https://github.com/Karsh10/Pyspark_Notes/blob/main/1.BASIC/4/20DataFrame%20Basics/DAY%2004%20notes.md) | Creating DataFrames, reading CSV/JSON, schema inference |
-| 5 | [Data Cleaning & Column Operations](https://github.com/Karsh10/Pyspark_Notes/blob/main/1.BASIC/5/20Data%20Cleaning%20%26%20Column%20Ops/Day%2005%20notes.md) | Handling nulls, `withColumn`, `na.fill`, `drop`, renaming columns |
-| 6 | Aggregations & GroupBy | `groupBy`, `agg`, `count`, `sum`, `avg`, aliasing |
+| 4 | [DataFrame Basics](https://github.com/Karsh10/PySpark-Notes/blob/4496cd834ce4c69f32cbf5620e48b3c7261ad35c/1.BASIC/4.%20DataFrame%20Basics/DAY%2004%20notes.md) | Creating DataFrames, reading CSV/JSON, schema inference |
+| 5 | [Data Cleaning & Column Operations](https://github.com/Karsh10/PySpark-Notes/blob/4496cd834ce4c69f32cbf5620e48b3c7261ad35c/1.BASIC/5.%20Data%20Cleaning%20%26%20Column%20Ops/Day%2005%20notes.md) | Handling nulls, `withColumn`, `na.fill`, `drop`, renaming columns |
+| 6 | [Aggregations & GroupBy](https://github.com/Karsh10/PySpark-Notes/blob/4496cd834ce4c69f32cbf5620e48b3c7261ad35c/1.BASIC/6.%20Agg%20Functions%20%2CGroup%20By%20etc/PySpark%20Aggregations%20and%20Functions.md) | `groupBy`, `agg`, `count`, `sum`, `avg`, aliasing |
 | 7 | Joins in PySpark | Inner, left, right, full joins, and broadcast joins |
 | 8 | SparkSQL | `createOrReplaceTempView`, running SQL queries, comparing plans |
 | 9 | Window Functions | Ranking functions (`rank`, `dense_rank`, `row_number`), partitions |
