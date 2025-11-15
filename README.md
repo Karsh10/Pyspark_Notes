@@ -32,7 +32,7 @@ Star it If it looks helpful
 | 7 | [Joins in PySpark](https://github.com/Karsh10/PySpark-Notes/blob/0d7d96a98e3bd71ec2d586468359db70ea4fa9e9/1.BASIC/7.%20Joins/Joins.md)| Inner, left, right, full joins, and broadcast joins |
 | 8 | SparkSQL | `createOrReplaceTempView`, running SQL queries, comparing plans |
 | 9 | [Window Functions](https://github.com/Karsh10/PySpark-Notes/blob/eed3f6a140c00a0a772565f4da328172183be0b0/1.BASIC/8.Window%20Function/Window%20Functions.md) | Ranking functions (`rank`, `dense_rank`, `row_number`) |
-| 10 | Data Writing & File Formats | Write to CSV, JSON, Parquet, use of partitionBy and modes |
+| 10 | [Data Writing & File Formats](https://github.com/Karsh10/PySpark-Notes/blob/684bfc3917d61d5f87296573b397ba7616e174e9/1.BASIC/9.%20Data%20Reading/Data%20Reading.md) | Write to CSV, JSON, Parquet, use of partitionBy and modes |
 
 ## 🟡 INTERMEDIATE LEVEL (Days 11–20)
 > *Performance optimization, tuning, caching, and Delta Lake fundamentals.*
