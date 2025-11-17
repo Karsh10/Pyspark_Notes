@@ -30,7 +30,7 @@ Star it If it looks helpful
 | 5 | [Data Cleaning & Column Operations](https://github.com/Karsh10/PySpark-Notes/blob/4496cd834ce4c69f32cbf5620e48b3c7261ad35c/1.BASIC/5.%20Data%20Cleaning%20%26%20Column%20Ops/Day%2005%20notes.md) | Handling nulls, `withColumn`, `na.fill`, `drop`, renaming columns |
 | 6 | [Aggregations & GroupBy](https://github.com/Karsh10/PySpark-Notes/blob/4496cd834ce4c69f32cbf5620e48b3c7261ad35c/1.BASIC/6.%20Agg%20Functions%20%2CGroup%20By%20etc/PySpark%20Aggregations%20and%20Functions.md) | `groupBy`, `agg`, `count`, `sum`, `avg`, aliasing |
 | 7 | [Joins in PySpark](https://github.com/Karsh10/PySpark-Notes/blob/0d7d96a98e3bd71ec2d586468359db70ea4fa9e9/1.BASIC/7.%20Joins/Joins.md)| Inner, left, right, full joins, and broadcast joins |
-| 8 | SparkSQL | `createOrReplaceTempView`, running SQL queries, comparing plans |
+| 8 | [SparkSQL](https://github.com/Karsh10/PySpark-Notes/blob/0b53a18261ed2ba6beb097093253a7c696213427/1.BASIC/10.Spark%20Sql/Spark%20Sql.md) | `createOrReplaceTempView`, running SQL queries, comparing plans |
 | 9 | [Window Functions](https://github.com/Karsh10/PySpark-Notes/blob/eed3f6a140c00a0a772565f4da328172183be0b0/1.BASIC/8.Window%20Function/Window%20Functions.md) | Ranking functions (`rank`, `dense_rank`, `row_number`) |
 | 10 | [Data Writing & File Formats](https://github.com/Karsh10/PySpark-Notes/blob/684bfc3917d61d5f87296573b397ba7616e174e9/1.BASIC/9.%20Data%20Reading/Data%20Reading.md) | Write to CSV, JSON, Parquet, use of partitionBy and modes |
 
