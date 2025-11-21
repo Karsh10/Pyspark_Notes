@@ -210,22 +210,17 @@ df_new = df_new.filter(col("Outlet_Location_Type") == 'Tier 1') df_new.display()
 # Questions -
 
 ### Q1: Difference between repartition and coalesce?
-
 **Repartition** → shuffle, increase or decrease  
 **Coalesce** → no shuffle, only decrease
 
 ### Q2: What is partition pruning?
-
 Spark reads only the folder matching your filter.
 
 ### Q3: Why 128MB partition size?
-
 Matches HDFS block size → fastest for distributed read.
 
 ### Q4: Why is filtering faster on partitioned data?
-
 Only reads relevant partitions (folders).
 
 ### Q5: What is spark_partition_id()?
-
 Shows which row belongs to which partition.
